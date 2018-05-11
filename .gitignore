@@ -16,7 +16,6 @@ mods/.sass-cache/
 !.gitignore
 !.editorconfig
 lerna-debug.log
-dist
 release
 
 npm-debug*
