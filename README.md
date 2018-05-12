@@ -4,7 +4,8 @@
 
 ![example](example/gif/slot-machine-demo.gif)
 
-> 使用 weex playground 扫码查看
+> [查看在线 Demo](https://yanjiie.github.io/weex-slot-machine/example/)
+  或使用 weex playground 扫码查看
 
 <img src="http://p1nq9peby.bkt.clouddn.com/slot-machine-qrcode.png" width="200"/>
 
