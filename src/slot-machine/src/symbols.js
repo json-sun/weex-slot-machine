@@ -5,43 +5,43 @@
 export default [
 	{
 		key: 'WATERMELON',
-		url: 'http://p1nq9peby.bkt.clouddn.com//watermelon.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/watermelon.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'CROWN',
-		url: 'http://p1nq9peby.bkt.clouddn.com//crown.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/crown.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'BELL',
-		url: 'http://p1nq9peby.bkt.clouddn.com//bell.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/bell.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'SEVEN',
-		url: 'http://p1nq9peby.bkt.clouddn.com//seven.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/seven.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'HORSESHOE',
-		url: 'http://p1nq9peby.bkt.clouddn.com//horseshoe.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/horseshoe.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'CHERRY',
-		url: 'http://p1nq9peby.bkt.clouddn.com//cherry.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/cherry.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'DIAMOND',
-		url: 'http://p1nq9peby.bkt.clouddn.com//diamond.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/diamond.png',
 		type: 'basic',
 		value: 100
 	},
@@ -53,13 +53,13 @@ export default [
 	},
 	{
 		key: 'STRAWBERRY',
-		url: 'http://p1nq9peby.bkt.clouddn.com//strawberry.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/strawberry.png',
 		type: 'basic',
 		value: 100
 	},
 	{
 		key: 'CLOVER',
-		url: 'http://p1nq9peby.bkt.clouddn.com//clover.png',
+		url: 'http://p1nq9peby.bkt.clouddn.com/clover.png',
 		type: 'basic',
 		value: 100
 	}

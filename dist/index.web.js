@@ -335,52 +335,52 @@ Object.defineProperty(exports, "__esModule", {
  */
 exports.default = [{
 	key: 'WATERMELON',
-	url: 'http://192.168.0.102:1234/watermelon.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/watermelon.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'CROWN',
-	url: 'http://192.168.0.102:1234/crown.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/crown.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'BELL',
-	url: 'http://192.168.0.102:1234/bell.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/bell.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'SEVEN',
-	url: 'http://192.168.0.102:1234/seven.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/seven.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'HORSESHOE',
-	url: 'http://192.168.0.102:1234/horseshoe.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/horseshoe.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'CHERRY',
-	url: 'http://192.168.0.102:1234/cherry.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/cherry.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'DIAMOND',
-	url: 'http://192.168.0.102:1234/diamond.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/diamond.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'STAR',
-	url: 'http://192.168.0.102:1234/star.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com//star.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'STRAWBERRY',
-	url: 'http://192.168.0.102:1234/strawberry.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/strawberry.png',
 	type: 'basic',
 	value: 100
 }, {
 	key: 'CLOVER',
-	url: 'http://192.168.0.102:1234/clover.png',
+	url: 'http://p1nq9peby.bkt.clouddn.com/clover.png',
 	type: 'basic',
 	value: 100
 }];
